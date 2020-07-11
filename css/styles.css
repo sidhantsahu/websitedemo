@@ -14,6 +14,10 @@ h2{
   font-size: 3.5rem;
   color:#80d6ff ;
 }
+.nam{
+  font-size: 5rem;
+}
+
 h3{
 
   font-weight: bold;
@@ -38,7 +42,7 @@ body{
   line-height: 1.5;
   color: #80d6ff;
   padding-top: 20%;
-
+  color:#fa7d09;
 }
 .navbar-brand{
   font-family: Ubuntu;
