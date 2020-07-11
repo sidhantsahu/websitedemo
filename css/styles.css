@@ -16,6 +16,7 @@ h2{
 }
 .nam{
   font-size: 5rem;
+    color:#b5ff7d;
 }
 
 h3{
@@ -40,7 +41,7 @@ body{
 .big-heading{
   font-size: 3rem;
   line-height: 1.5;
-  color: #80d6ff;
+   color:#b5ff7d;
   padding-top: 20%;
   color:#fa7d09;
 }
