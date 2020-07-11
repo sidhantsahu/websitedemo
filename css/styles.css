@@ -1,0 +1,164 @@
+#title{
+  background-color: #74f9ff;
+text-align:left;
+padding-bottom: 4%;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSVSYDnKCxm_k1RXeA7t4p7QOauQI7FKy71g&usqp=CAU);
+}
+
+h1,h2,h4,h5,h6{
+  font-family: "Montserrat", sans-serif;
+
+  /* font-family: 'Ubuntu', sans-serif; */
+}
+h2{
+  font-size: 3.5rem;
+  color:#80d6ff ;
+}
+h3{
+
+  font-weight: bold;
+  font-size: 2.0rem;
+  color: #ffb400;
+}
+
+
+p{
+  color:#8f8f8f;
+}
+.container-fluid{
+  padding: 2% 15% 7%;
+}
+body{
+  font-family: "Montserrat";
+}
+
+/* heading */
+.big-heading{
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #80d6ff;
+  padding-top: 20%;
+
+}
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+    /* padding:3%; */
+}
+.nav-item{
+  padding:5%;
+}
+.nav-link{
+  font-weight: lighter;
+}
+.download-btn{
+  margin:5% 3% 5% 0;
+}
+.title-image{
+  width:60%;
+  /* transform: rotate(25deg); */
+  margin-left: 10%;
+  margin-top: 5%;
+  position: absolute;
+
+}
+/* features se */
+#features{
+  padding: 7% 15%;
+  /* z-index: 1; */
+  position: relative;
+  background-color: white;
+}
+.feature-box{
+text-align: center;
+padding: 5%;
+
+}
+
+.icon{
+color: #80d6ff;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+#testimonials{
+  background-color:#b5ff7d;
+  text-align: center;
+background-image:url(https://png.pngtree.com/thumb_back/fw800/background/20190903/pngtree-pattern-note-music-of-black-and-blue-background-image_310811.jpg);
+
+  color:#white;
+  font-family:  "Montserrat" ;
+  font-size:2rem;
+}
+.testimonial-image{
+  border-radius: 100%;
+  width: 30%;
+  padding: 20px;
+}
+.testimonial-imaged{
+  border-radius: 100%;
+  width: 60%;
+  padding: 20px;
+}
+.testimonial-text{
+  color:white;
+}
+.bev{
+  color: white;
+}
+
+.testimonial-images{
+  border-radius: 100%;
+  width: 35%;
+  padding: 20px;
+}
+.carousel-item{
+padding: 7% 15% ;
+}
+#press{
+  background-color: #c7f5ff;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgi_IwI18QVpkaW5jGjbLpLKDDvae2lYH8-g&usqp=CAU);
+}
+.press-logo{
+  margin: 7%;
+  width:10%;
+
+}
+
+
+/* pricing */
+#pricing{
+  padding: 100px;
+  text-align:center;
+
+}
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  font-family: "Montserrat";
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAf0kyyriuM5M7P9Qpm3tftcXQUUxjSCIlTA&usqp=CAU);
+}
+
+.ct{
+  padding-top:10% ;
+font-size: 3rem;
+}
+#footer{
+  text-align: center;
+  color: #80d6ff;
+}
+.social-icon{
+  margin:20px 10px;
+}
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
