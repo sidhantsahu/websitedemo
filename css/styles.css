@@ -14,10 +14,7 @@ h2{
   font-size: 3.5rem;
   color:#80d6ff ;
 }
-.nam{
-  font-size: 5rem;
-    color:#b5ff7d;
-}
+
 
 h3{
 
@@ -36,14 +33,17 @@ p{
 body{
   font-family: "Montserrat";
 }
-
+.nam{
+  font-size: 5rem;
+    color:#b5ff7d;
+}
 /* heading */
 .big-heading{
   font-size: 3rem;
   line-height: 1.5;
-   color:#b5ff7d;
+  color:#b5ff7d;
   padding-top: 20%;
-  
+
 }
 .navbar-brand{
   font-family: Ubuntu;
